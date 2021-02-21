@@ -1,9 +1,10 @@
 # getSCGoodsData
-  #### 用于从星际公民游戏本地文件中检索物品(主要是船)售卖信息的简单程序，需要依赖 \~java1.8、unp4k和unforge；你可以在`dev`中找到已经打包好的unp4k和unforge程序。
-  #### 当然，我更希望您可以前往[unp4k在github的官方库](https://github.com/dolkensp/unp4k)
-  <p>This jar software can search Goods(such as ships) info from the game data，before you use it, you should get ≥java1.8, unp4k and unforge.</p>
-  <p>目前只能在 ≥windows7 上运行。</p>
-  <p>only runable in ≥windows7.</p>
+  这是用于从星际公民游戏本地文件`Data.p4k`中检索物品(主要是船)售卖信息的简单程序，需要依赖 ~java1.8、[unp4k](https://github.com/dolkensp/unp4k)和unforge；你可以在`dev`中找到已经打包好的unp4k和unforge程序。</br>
+  
+  This jar software can search Goods(such as ships) info from the game data，before you use it, you should get ≥java1.8, unp4k and unforge.</br>
+  当然，我更希望您可以前往[unp4k在github的官方库](https://github.com/dolkensp/unp4k)给原作者一个star</br>
+  <p>目前只能在 ≥windows7 上运行。</b>ronly runable in ≥windows7.</p>
+  <p></p>
   
 # 开始-start
 
