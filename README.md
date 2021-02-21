@@ -3,7 +3,7 @@
   
   This jar software can search Goods(such as ships) info from the game data，before you use it, you should get ≥java1.8, unp4k and unforge.</br>
   当然，我更希望您可以前往[unp4k在github的官方库](https://github.com/dolkensp/unp4k)给原作者一个star</br>
-  <p>目前只能在 ≥windows7 上运行。</b>ronly runable in ≥windows7.</p>
+  <p>目前只能在 ≥windows7 上运行。</br>only runable in ≥windows7.</p>
   <p></p>
   
 # 开始-start
