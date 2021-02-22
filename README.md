@@ -13,10 +13,10 @@
   
 ## 开始-start
 
-  <ul>
-    <li>  
-      <p>下载jar</p>
-      <p>download jar</p>
+ 
+      -**下载jar**</br>
+      download jar
+      
     <li>  
       <p>打开cmd并导航到有getSCGoodsData.jar的文件夹</p>
       <p>open the command and goto the folder which have the getSCGoodsData.jar</p>
