@@ -12,10 +12,7 @@
 ---
   
 ## 开始-start
-
- 
-      -**下载jar**</br>
-      download jar
+-**下载jar**</br>download jar
       
     <li>  
       <p>打开cmd并导航到有getSCGoodsData.jar的文件夹</p>
