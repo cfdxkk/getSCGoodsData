@@ -14,6 +14,6 @@
 ## 开始-start
 - **下载jar**</br>download jar
 - **打开cmd并导航到有getSCGoodsData.jar的文件夹**</br>open the command and goto the folder which have the getSCGoodsData.jar
-- **输入 `java -jar getSCGoodsData.jar` 然后跟着程序的指示操作**</br>type `java -jar getSCGoodsData.jar` and follow the tips in the software
+- **输入 `java -jar GetSCGoodsData.jar` 然后跟着程序的指示操作**</br>type `java -jar GetSCGoodsData.jar` and follow the tips in the software
 
   
